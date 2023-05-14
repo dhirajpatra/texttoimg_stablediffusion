@@ -35,7 +35,7 @@ Any advise for common problems or issues. Kindly check [keras site](https://kera
 
 Contributor names and contact info
 
-[Dhiraj Patra for FTCSolar](dpatra@ftcsolar.com)
+[Dhiraj Patra](dhiraj.patra@gmail.com)
 
 ## Version History
 
