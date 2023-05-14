@@ -7,8 +7,8 @@ These applications has been developed to create Generative AI. You can create te
 How it works:
 
 * The model notebook file ready to create text to image. 
-* More you give the deteails in text it is better to generate accurate images
-* You can optimize the model
+* More you give the deteails in text it is better to generate accurate images.
+* You can optimize the model.
 
 ## Getting Started
 
